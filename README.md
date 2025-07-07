@@ -6,7 +6,7 @@ July 7th 2025
 ### Description
 This project is designed around utilizing git and commands in order to publish a **previously** created project for the _Programming for Data Science with Python_ Udacity Nanodegree. It allows users to select a city in prompt and get data about their bikeshare programs.
 
-###How to Run
+### How to Run
 Run `python3 Bike_Share_Project.py`
 
 >Ensure the proper csv files are in the same folder in which you are running the commands
