@@ -6,6 +6,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+#Make sure the csv files are in the same location of the python program
+
 def bicycle_song():
     """
     Easter egg function that plays the Bicycle song lyrics.
