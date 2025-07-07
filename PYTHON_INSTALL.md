@@ -19,9 +19,9 @@ This project requires Python 3.6 or higher.
 4. Verify installation: `python3 --version`
 
 ### Linux (Ubuntu/Debian)
-```bash
-sudo apt update
-sudo apt install python3 python3-pip```
+1. ```bash```
+2. ```sudo apt update```
+3. ```sudo apt install python3 python3-pip```
 
 ### Check that Python is installed
 `python --version` or `python3 --version`
